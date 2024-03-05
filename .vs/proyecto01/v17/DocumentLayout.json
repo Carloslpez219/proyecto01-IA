@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlos.lopez\\Downloads\\proyecto01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D5B520-1360-4FF0-A581-E330CF6ACF2C}|proyecto01.pyproj|C:\\Users\\carlos.lopez\\Downloads\\proyecto01\\proyecto01.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4D5B520-1360-4FF0-A581-E330CF6ACF2C}|proyecto01.pyproj|solutionrelative:proyecto01.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "proyecto01.py",
+              "DocumentMoniker": "C:\\Users\\carlos.lopez\\Downloads\\proyecto01\\proyecto01.py",
+              "RelativeDocumentMoniker": "proyecto01.py",
+              "ToolTip": "C:\\Users\\carlos.lopez\\Downloads\\proyecto01\\proyecto01.py*",
+              "RelativeToolTip": "proyecto01.py*",
+              "ViewState": "AQIAAHEBAAAAAAAAAAAAAHsBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-02-28T02:06:19.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
